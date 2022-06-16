@@ -8,7 +8,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&color=D8CBCB)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&color=D8CBCB)
 -  Fullstack Javascript by [The Odin Project](https://github.com/TheOdinProject)
--  Python scripting skills (and bash scripting too)
+-  Python Django Backend
+-  Bug Hunter
 
 ## 🌱 I'm currently learning
 - Javascript
@@ -16,6 +17,7 @@
 - Bash
 - Linux Administration
 - Backend Development
+- Penetration Testing
 
 
 ### 📫 How to reach me:
